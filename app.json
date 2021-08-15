@@ -1,14 +1,23 @@
 {
-    "name": "🎭ɴᴇᴏᴛʀᴏ𝙭🪐",
-    "description": "🎭ɴᴇᴏᴛʀᴏ𝙭🪐 is a first Made in sri lanka 🇱🇰chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
+    "name": "SLHackers",
+    "description": "SLHackers is a first Made in sri lanka 🇱🇰chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
     "logo": "https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "🎭ɴᴇᴏᴛʀᴏ𝙭🪐"],
+    "keywords": [
+        "whatsapp",
+        "userbot",
+        "Asena",
+        "WhatsAsena",
+        "bot",
+        "api",
+        "ai",
+        "SLHackers"
+    ],
     "repository": "",
-    "website":   "https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX",
-    "success_url": "https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX",
+    "website": "https://chat.whatsapp.com/BmHC38h9OTPIbWLjGupalw",
+    "success_url": "https://chat.whatsapp.com/BmHC38h9OTPIbWLjGupalw",
     "stack": "container",
     "env": {
-        "NEUTRO_SESSION": {
+        "SLHACKERS_SESSION": {
             "description": "Qr කේතය scan කළ පසුව ලැබෙන කේතයන්",
             "required": true
         },
@@ -34,7 +43,7 @@
         "MENU": {
             "description": "✅COMMAND LIST එකට දාන්න ඕන දෙයක් දාන්න",
             "required": false,
-            "value": "*🎭ɴᴇᴏᴛʀᴏ𝙭🪐*"
+            "value": "*SLHackers*"
         },
         "SEND_READ": {
             "description": "Bot message seen කළාද නැතිද යන්න පරිශීලකට පෙන්විය යුතුද?",
@@ -62,7 +71,7 @@
         "BLOCK_CHAT": {
             "description": "✅බොට් වැඩ නොකරන චැට් එක තෝරන්න. Ex: 947xxxxxxxx && 947xxxxxxxx හෝ 947xxxxxxxx,947xxxxxxxx",
             "required": false,
-            "value": "94766598862-1624945302,"
+            "value": "94755681782-1624945302,"
         },
         "UNMUTE_MESSAGE": {
             "description": "✅Group එකක් unmute කිරිමෙදි ලැබෙන පනිවිඩය.",
@@ -83,13 +92,13 @@
             "description": "✅Bot වැඩ කරන ක්රමය. ඔබ “public” භාවිතා කරන්නේ නම්, සෑම කෙනෙකුටම bot භාවිතා කළ හැකිය. ඔබ “private” භාවිතා කරන්නේ නම්, ඔබේ bot භාවිතා කළ හැක්කේ ඔබට පමණි.",
             "required": true,
             "value": "private"
-        },       
+        },
         "DEBUG": {
             "description": "ඔබ මෙය නොදන්නේ නම්. එය අත්හරින්න.",
             "required": true,
             "value": "false"
         },
-         "ALIVE_LOGO": {
+        "ALIVE_LOGO": {
             "description": "✅Alive message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
             "required": true,
             "value": "https://telegra.ph/file/ef9be86d4f8e07cfb9210.jpg"
@@ -159,10 +168,14 @@
             "value": "true"
         }
     },
-    "addons": [{
-      "plan": "heroku-postgresql"
-    }],
-    "buildpacks": [{
-      "url": "heroku-community/apt"
-      }]
-  }
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ],
+    "buildpacks": [
+        {
+            "url": "heroku-community/apt"
+        }
+    ]
+}

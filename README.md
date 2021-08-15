@@ -1,4 +1,4 @@
-<h1 align="center"><b> 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ ʙᴏᴛ  </b></h1>
+<h1 align="center"><b> 🎭SLHackers⚡ ʙᴏᴛ  </b></h1>
 
 ![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
 
@@ -6,42 +6,41 @@
 
 
 <p align="center">
-    Project of  🎭ɴᴇᴏᴛʀᴏ𝙭🪐 - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
+    Project of  SLHackers - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
     <br>
-        <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
-        <a href="https://Wa.me/+94766598862">TeenuhX Whatsapp </a> |
-        <a href="https://Wa.me/+94 75 881 7307">En Cuizer whatsapp |
+        <a href="https://chat.whatsapp.com/BmHC38h9OTPIbWLjGupalw">Support Group</a> |
+        <a href="https://Wa.me/+94755681782">CHMOD Whatsapp </a> |
         
     <Enjoy & stay safe stay home>
 </p>
 ---------------
 <p align="center">
-  <a href="https://github.com/Hirusha21/Hashzi-X">
+  <a href="https://github.com/Hirusha21/SLHTBot-X">
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
   
   </a>
-  <a href="https://github.com/Hirusha21/Hashzi-X">
+  <a href="https://github.com/Hirusha21/SLHTBot-X">
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
     
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hirusha21/Hashzi-X">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxneon2%2FHashzi-X&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  <a href="https://github.com/Hirusha21/SLHTBot-X">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxneon2%2FSLHTBot-X&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/Hirusha21/Hashzi-X/fork">
-    <img src="https://img.shields.io/github/forks/Hirusha21/Hashzi-X?label=Fork&style=social">
+  <a href="https://github.com/Hirusha21/SLHTBot-X/fork">
+    <img src="https://img.shields.io/github/forks/Hirusha21/SLHTBot-X?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Hirusha21/Hashzi-X/stargazers">
-    <img src="https://img.shields.io/github/stars/Hirusha21/Hashzi-X?style=social">
+  <a href="https://github.com/Hirusha21/SLHTBot-X/stargazers">
+    <img src="https://img.shields.io/github/stars/Hirusha21/SLHTBot-X?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/Hirusha21/Hashzi-X">
+  <a href="httsp://github.com/Hirusha21/SLHTBot-X">
     <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
 
   </a>
@@ -54,7 +53,7 @@
 
   </a>
   <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Neotro%20X&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=slhackers%20X&color=purple&style=plastic">
 
   </a>
   <a href="https://wa.me/94786598862">
@@ -65,18 +64,18 @@
 
 ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@GeekHirusha/SLHackers-Team-Bot-QR-Code)
 
 ## Termux මඟින් QR කේතය ලබා ගැනීමට පහල Code එක Termux වල Run කරන්න
  ```$ bash <(curl -L https://t.ly/LpaQ)```
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hirusha21/Hashzi-X)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hirusha21/SLHTBot-X)
 
 
-> [සම්පූර්ණ සිංහල tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
+> [සම්පූර්ණ සිංහල tutorial](https://www.youtube.com/c/GeekHirusha&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
 
-> [![සම්පූර්ණ සිංහල tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
+> [![සම්පූර්ණ සිංහල tutorial]](https://www.youtube.com/c/GeekHirusha)
 
 
 ### ⚠️ Warning! 
@@ -153,7 +152,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 | Command 💻 | Description ℹ️ |
 | ---------- | -------------------- |
-| .neotro | Shows all existing commands.
+| .slhackers | Shows all existing commands.
 | .alive | Checks if the bot is running. |
 | .ban | Kick the user from the group. |
 | .afk | It makes you AFK. Sends the afk message when you receive a private message or tag. |
@@ -294,16 +293,3 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 | .textai | Creates a virtual story from your sentence. |
 | .nudityai | Shows the NSFW value of the photo between 1 and 0. |
 | .ganstyle | Combines pictures with the image link in Config Vars with the help of artificial intelligence.
-
-## ⚡Developers
-  <div align="center">
-    
-  [![ᴇɴ ᴄᴜɪᴢᴇʀ](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![ᴛᴜᴛᴜ⚡𝐗](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![ᴍᴀꜱʜ⚡ᴢ](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----
-[ᴇɴ⚡ᴄᴜɪᴢᴇʀ](https://github.com/farhan-dqz)  | [ᴛᴜʀᴜ⚡𝐗](https://github.com/AI-VIKI) | [ᴍᴀꜱʜ⚡ᴢ](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
-  </div>
-    
-## 👽Thanks To
-[![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
-[Yusuf Usta](https://t.me/fusufs)

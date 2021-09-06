@@ -21,14 +21,47 @@
             "description": "Qr කේතය scan කළ පසුව ලැබෙන කේතයන්",
             "required": true
         },
-        "SUDO": {
-            "description": "ඔබ එය භාවිතා කරන්නේ කෙසේදැයි නොදන්නේ නම් හිස්ව තබන්න! සුඩෝ මාදිලිය; ඔබගේ අංකය ජාත්‍යන්තර අංකයක් විය යුතුය. එබැවින් රටේ කේතයෙන් පසුව ඔබේ අංකය තිබිය යුතුය. උදාහරණය: 947xxxxxxxx (Sri lanka අංකය 94)",
-            "required": false
+        "HEROKU_APP_NAME": {
+            "description": "ඉහත App name එකම යොදන්න.",
+            "required": true
+        },
+        "HEROKU_API_KEY": {
+            "description": "https://dashboard.heroku.com/account මෙම link ක්ලික් කරන්න. API key සඳහා පහළට scroll කරන්න. ඉන්පසු Reveal බොත්තම ක්ලික් කරන්න. එම API key copy කර පහත හිස් කොටුව paste කරන්න.",
+            "required": true
         },
         "NO_LOG": {
-            "description": "Hata logu görmek istemiyorsanız true yapın. Set true if you don t want to see error log.",
+            "description": "නිතර පැමිණෙන දෝෂ පණිවුඩ නැවත තැබීමට මෙය මෙලෙසම තැබිය හැක. Set true if you don t want to see error log.",
             "required": true,
             "value": "false"
+        },
+        "BOT_NAME": {
+            "description": "Photo caption ;ලෝගෝ /පින්තුර පහළ ඇති නම වෙනස් කිරිමට අවශ්‍ය නම් මෙහි ඔබට අවශ්‍ය නම ලියන්න.",
+            "required": false,
+            "value": "*SLHackers*"
+        },
+        "AFK_MESSAGE": {
+            "description": "✅ඔබට මෙම පණිවිඩය වෙනස් කිරීමට අවශ්‍ය නැතිනම් default ටයිප් කරන්න. ඔබ දුරකතනයෙන් ඉවත්වන විට තබා යන පණිවිඩය",
+            "required": false,
+            "value": "default"
+        },
+        "ALIVE_MESSAGE": {
+            "description": "✅Bot online ද නැද්ද යන්න පරීක්ෂා කරන විට ලැබෙන මැසේජ් එක. මෙය වෙනස් කිරිමට අත්‍යාවශ්‍යම නොවේ.",
+            "required": false,
+            "value": "default"
+        },
+        "ALIVE_LOGO": {
+            "description": "✅Alive message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
+            "required": true,
+            "value": "https://telegra.ph/file/40ed93cc5bbd6ebc35934.jpg"
+        },
+        "MENU": {
+            "description": "✅COMMAND LIST එකට දාන්න ඕන දෙයක් දාන්න",
+            "required": false,
+            "value": "*SLHackers*"
+        },
+        "REMOVE_BG_API_KEY": {
+            "description": "මෙහිදි ඔබ remove.bg යන website එකට පිවිස signup වී, API key එකක් ලබාගන්න. එම API key එක මෙම හිස්තැනේ දමන්න.",
+            "required": false
         },
         "LANGUAGE": {
             "description": "Bot භාෂාව.සිංහල භාෂාව සඳහා En ලෙස සඳහන් කරන්න. ",
@@ -40,28 +73,19 @@
             "required": true,
             "value": "^[.]"
         },
-        "MENU": {
-            "description": "✅COMMAND LIST එකට දාන්න ඕන දෙයක් දාන්න",
-            "required": false,
-            "value": "*SLHackers*"
+        "SUDO": {
+            "description": "ඔබ එය භාවිතා කරන්නේ කෙසේදැයි නොදන්නේ නම් හිස්ව තබන්න! සුඩෝ මාදිලිය; ඔබගේ අංකය ජාත්‍යන්තර අංකයක් විය යුතුය. එබැවින් රටේ කේතයෙන් පසුව ඔබේ අංකය තිබිය යුතුය. උදාහරණය: 947xxxxxxxx (Sri lanka අංකය 94)",
+            "required": false
         },
         "SEND_READ": {
             "description": "Bot message seen කළාද නැතිද යන්න පරිශීලකට පෙන්විය යුතුද?",
             "required": true,
             "value": "true"
         },
-        "HEROKU": {
-            "description": "Heroku",
+        "WORK_TYPE": {
+            "description": "✅Bot වැඩ කරන ක්රමය. ඔබ “public” භාවිතා කරන්නේ නම්, සෑම කෙනෙකුටම bot භාවිතා කළ හැකිය. ඔබ “private” භාවිතා කරන්නේ නම්, ඔබේ bot භාවිතා කළ හැක්කේ ඔබට පමණි.",
             "required": true,
-            "value": "true"
-        },
-        "HEROKU_API_KEY": {
-            "description": "https://dashboard.heroku.com/account මෙම link ක්ලික් කරන්න. API key සඳහා පහළට scroll කරන්න. ඉන්පසු Reveal බොත්තම ක්ලික් කරන්න. එම API key copy කර පහත හිස් කොටුව paste කරන්න.",
-            "required": true
-        },
-        "HEROKU_APP_NAME": {
-            "description": "ඉහත App name එකම යොදන්න.",
-            "required": true
+            "value": "private"
         },
         "MUTE_MESSAGE": {
             "description": "✅Group එකක් mute කිරිමෙදි ලැබෙන පනිවිඩය. ඔබට මෙම පණිවිඩය වෙනස් කිරීමට අවශ්‍ය නැතිනම් default ටයිප් කරන්න.",
@@ -113,15 +137,6 @@
             "required": true,
             "value": "https://i.ibb.co/Gxct8Hg/Logo-SLH.jpg"
         },
-        "REMOVE_BG_API_KEY": {
-            "description": "මෙහිදි ඔබ remove.bg යන website එකට පිවිස signup වී, API key එකක් ලබාගන්න. එම API key එක මෙම හිස්තැනේ දමන්න.",
-            "required": false
-        },
-        "ALIVE_MESSAGE": {
-            "description": "✅Bot online ද නැද්ද යන්න පරීක්ෂා කරන විට ලැබෙන මැසේජ් එක. මෙය වෙනස් කිරිමට අත්‍යාවශ්‍යම නොවේ.",
-            "required": false,
-            "value": "default"
-        },
         "BAN_MESSAGE": {
             "description": "✅යම් කෙනෙකු ඔබ .ban ලෙස කොමාන්ඩ් කර remove කලවිට ලැබෙන message එක. ඔබට මෙම පණිවිඩය වෙනස් කිරීමට අවශ්‍ය නැතිනම් default ටයිප් කරන්න.",
             "required": false,
@@ -147,10 +162,10 @@
             "required": false,
             "value": "default"
         },
-        "AFK_MESSAGE": {
-            "description": "✅ඔබට මෙම පණිවිඩය වෙනස් කිරීමට අවශ්‍ය නැතිනම් default ටයිප් කරන්න.",
-            "required": false,
-            "value": "default"
+        "DEBUG": {
+            "description": "ඔබ මෙය නොදන්නේ නම්. එය අත්හරින්න.",
+            "required": true,
+            "value": "false"
         },
         "GAN_IMAGE": {
             "description": "මෙය වෙනස් කිරිමට අත්‍යාවශ්‍යම නොවේ.",
@@ -158,8 +173,13 @@
             "value": "https://i.ibb.co/Gxct8Hg/Logo-SLH.jpg"
         },
         "NO_ONLINE": {
-            "description": "මෙය වෙනස් කිරිමට අත්‍යාවශ්‍යම නොවේ.",
+            "description": "Type true if you don't want to appear online.ගිණුම online වසා තැබීමට. මෙය වෙනස් කිරිමට අත්‍යාවශ්‍යම නොවේ.",
             "required": false,
+            "value": "true"
+        },
+        "HEROKU": {
+            "description": "Heroku",
+            "required": true,
             "value": "true"
         },
         "COFFEEHOUSE_API_KEY": {

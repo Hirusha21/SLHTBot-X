@@ -1,7 +1,7 @@
 {
     "name": "SLHackers",
     "description": "SLHackers is a first Made in sri lanka 🇱🇰chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
-    "logo": "https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg",
+    "logo": "https://i.ibb.co/Gxct8Hg/Logo-SLH.jpg",
     "keywords": [
         "whatsapp",
         "userbot",
@@ -112,15 +112,30 @@
             "required": false,
             "value": "default"
         },
+        "WORK_TYPE": {
+            "description": "✅Bot වැඩ කරන ක්රමය. ඔබ “public” භාවිතා කරන්නේ නම්, සෑම කෙනෙකුටම bot භාවිතා කළ හැකිය. ඔබ “private” භාවිතා කරන්නේ නම්, ඔබේ bot භාවිතා කළ හැක්කේ ඔබට පමණි.",
+            "required": true,
+            "value": "private"
+        },
+        "DEBUG": {
+            "description": "ඔබ මෙය නොදන්නේ නම්. එය අත්හරින්න.",
+            "required": true,
+            "value": "false"
+        },
+        "ALIVE_LOGO": {
+            "description": "✅Alive message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
+            "required": true,
+            "value": "https://i.ibb.co/Gxct8Hg/Logo-SLH.jpg"
+        },
         "WELCOME_LOGO": {
             "description": "✅Welcome message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
             "required": true,
-            "value": "https://telegra.ph/file/1c9d26b04ca643a8e20f7.mp4"
+            "value": "https://i.ibb.co/Gxct8Hg/Logo-SLH.jpg"
         },
         "BYE_LOGO": {
             "description": "✅Goodbye message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
             "required": true,
-            "value": "https://telegra.ph/file/1c9d26b04ca643a8e20f7.mp4"
+            "value": "https://i.ibb.co/Gxct8Hg/Logo-SLH.jpg"
         },
         "BAN_MESSAGE": {
             "description": "✅යම් කෙනෙකු ඔබ .ban ලෙස කොමාන්ඩ් කර remove කලවිට ලැබෙන message එක. ඔබට මෙම පණිවිඩය වෙනස් කිරීමට අවශ්‍ය නැතිනම් default ටයිප් කරන්න.",
@@ -155,7 +170,7 @@
         "GAN_IMAGE": {
             "description": "මෙය වෙනස් කිරිමට අත්‍යාවශ්‍යම නොවේ.",
             "required": true,
-            "value": "https://telegra.ph/file/40ed93cc5bbd6ebc35934.jpg"
+            "value": "https://i.ibb.co/Gxct8Hg/Logo-SLH.jpg"
         },
         "NO_ONLINE": {
             "description": "Type true if you don't want to appear online.ගිණුම online වසා තැබීමට. මෙය වෙනස් කිරිමට අත්‍යාවශ්‍යම නොවේ.",

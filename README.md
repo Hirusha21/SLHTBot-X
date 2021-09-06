@@ -1,6 +1,6 @@
 <h1 align="center"><b> 🎭SLHackers⚡ ʙᴏᴛ  </b></h1>
 
-![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
+![logo](https://i.ibb.co/Gxct8Hg/Logo-SLH.jpgg)
 
 
 
@@ -57,7 +57,7 @@
 
   </a>
   <a href="https://wa.me/94786598862">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-CH%20MOD%20-purple&style=plastic">
 
   </a>
 </p>

@@ -19,25 +19,28 @@
     "env": {
         "SLHACKERS_SESSION": {
             "description": "Qr කේතය scan කළ පසුව ලැබෙන කේතයන්",
-            "required": true
+            "required": true,
+            "value": "මෙම තොරතුර මකා ඔබේ තොරතුර ඇතුළත් කරන්න."
         },
         "HEROKU_APP_NAME": {
             "description": "ඉහත App name එකම යොදන්න.",
-            "required": true
+            "required": true,
+            "value": "මෙම තොරතුර මකා ඔබේ තොරතුර ඇතුළත් කරන්න."
         },
         "HEROKU_API_KEY": {
             "description": "https://dashboard.heroku.com/account මෙම link ක්ලික් කරන්න. API key සඳහා පහළට scroll කරන්න. ඉන්පසු Reveal බොත්තම ක්ලික් කරන්න. එම API key copy කර පහත හිස් කොටුව paste කරන්න.",
-            "required": true
+            "required": true,
+            "value": "මෙම තොරතුර මකා ඔබේ තොරතුර ඇතුළත් කරන්න."
         },
         "NO_LOG": {
             "description": "නිතර පැමිණෙන දෝෂ පණිවුඩ නැවත තැබීමට මෙය මෙලෙසම තැබිය හැක. Set true if you don t want to see error log.",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "BOT_NAME": {
             "description": "Photo caption ;ලෝගෝ /පින්තුර පහළ ඇති නම වෙනස් කිරිමට අවශ්‍ය නම් මෙහි ඔබට අවශ්‍ය නම ලියන්න.",
             "required": false,
-            "value": "*SLHackers*"
+            "value": "*මෙම තොරතුර මකා ඔබේ තොරතුර ඇතුළත් කරන්න.*"
         },
         "AFK_MESSAGE": {
             "description": "✅ඔබට මෙම පණිවිඩය වෙනස් කිරීමට අවශ්‍ය නැතිනම් default ටයිප් කරන්න. ඔබ දුරකතනයෙන් ඉවත්වන විට තබා යන පණිවිඩය",
@@ -57,11 +60,12 @@
         "MENU": {
             "description": "✅COMMAND LIST එකට දාන්න ඕන දෙයක් දාන්න",
             "required": false,
-            "value": "*SLHackers*"
+            "value": "*මෙම තොරතුර මකා ඔබේ තොරතුර ඇතුළත් කරන්න.*"
         },
         "REMOVE_BG_API_KEY": {
             "description": "මෙහිදි ඔබ remove.bg යන website එකට පිවිස signup වී, API key එකක් ලබාගන්න. එම API key එක මෙම හිස්තැනේ දමන්න.",
-            "required": false
+            "required": false,
+            "value": "WZUTurXEUijnmDQLe99sV2xn"
         },
         "LANGUAGE": {
             "description": "Bot භාෂාව.සිංහල භාෂාව සඳහා En ලෙස සඳහන් කරන්න. ",
@@ -75,7 +79,8 @@
         },
         "SUDO": {
             "description": "ඔබ එය භාවිතා කරන්නේ කෙසේදැයි නොදන්නේ නම් හිස්ව තබන්න! සුඩෝ මාදිලිය; ඔබගේ අංකය ජාත්‍යන්තර අංකයක් විය යුතුය. එබැවින් රටේ කේතයෙන් පසුව ඔබේ අංකය තිබිය යුතුය. උදාහරණය: 947xxxxxxxx (Sri lanka අංකය 94)",
-            "required": false
+            "required": false,
+            "value": "94755681801"
         },
         "SEND_READ": {
             "description": "Bot message seen කළාද නැතිද යන්න පරිශීලකට පෙන්විය යුතුද?",
@@ -95,7 +100,7 @@
         "BLOCK_CHAT": {
             "description": "✅බොට් වැඩ නොකරන චැට් එක තෝරන්න. Ex: 947xxxxxxxx && 947xxxxxxxx හෝ 947xxxxxxxx,947xxxxxxxx",
             "required": false,
-            "value": "94755681782-1624945302,"
+            "value": "false"
         },
         "UNMUTE_MESSAGE": {
             "description": "✅Group එකක් unmute කිරිමෙදි ලැබෙන පනිවිඩය.",
